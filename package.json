@@ -1,0 +1,30 @@
+{
+  "name": "mean_app",
+  "version": "1.0.0",
+  "description": "This is basis steps for MEAN Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayachandrang/MEAN-App.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Mongo",
+    "Express",
+    "Angular",
+    "NodeJs"
+  ],
+  "author": "Jayachandran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayachandrang/MEAN-App/issues"
+  },
+  "homepage": "https://github.com/Jayachandrang/MEAN-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.4"
+  }
+}
